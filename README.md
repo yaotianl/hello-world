@@ -1,6 +1,6 @@
 hello-world
 ===========
-Lin
+Lin,
 Josh,
 Tony,
 Boss,
